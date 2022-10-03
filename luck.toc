@@ -11,11 +11,13 @@
 \contentsline {subsection}{\numberline {2.5}Relative Age phenomenon}{4}{subsection.2.5}%
 \contentsline {subsection}{\numberline {2.6}Effects of country of birth}{4}{subsection.2.6}%
 \contentsline {subsection}{\numberline {2.7}Effects of immigration}{4}{subsection.2.7}%
+\contentsline {subsection}{\numberline {2.8}Ban The Box (race)}{5}{subsection.2.8}%
+\contentsline {subsection}{\numberline {2.9}Asian Americans Harvard discrimination (race)}{5}{subsection.2.9}%
 \contentsline {section}{\numberline {3}Luck and Social Mobility}{5}{section.3}%
 \contentsline {subsection}{\numberline {3.1}Rat Race equilibrium}{5}{subsection.3.1}%
-\contentsline {subsection}{\numberline {3.2}Meritocracies effects on social mobility}{5}{subsection.3.2}%
-\contentsline {subsubsection}{\numberline {3.2.1}Against Meritocracy}{5}{subsubsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.2}Meritocracies effects on social mobility}{6}{subsection.3.2}%
+\contentsline {subsubsection}{\numberline {3.2.1}Against Meritocracy}{6}{subsubsection.3.2.1}%
 \contentsline {subsubsection}{\numberline {3.2.2}Support Meritocracy}{7}{subsubsection.3.2.2}%
-\contentsline {section}{\numberline {4}Luck and Free Will}{8}{section.4}%
-\contentsline {subsection}{\numberline {4.1}Chaos Theory \& Quantum Mechanics}{8}{subsection.4.1}%
-\contentsline {subsection}{\numberline {4.2}Free Will does not exist}{9}{subsection.4.2}%
+\contentsline {section}{\numberline {4}Luck and Free Will}{9}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Chaos Theory \& Quantum Mechanics}{9}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Free Will does not exist}{10}{subsection.4.2}%
