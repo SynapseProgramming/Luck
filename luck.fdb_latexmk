@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1666092456 "luck.tex" "luck.pdf" "luck" 1666092457
+["pdflatex"] 1666093520 "luck.tex" "luck.pdf" "luck" 1666093521
   "c:/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1651722608 2971 def0b6c1f0b107b3b936def894055589 ""
   "c:/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1651722608 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "c:/texlive/2022/texmf-dist/fonts/map/fontname/texfonts.map" 1651723145 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -88,10 +88,10 @@
   "c:/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1651725306 4448422 53302d27d6d34c8e3e97ce3a8b4bdfa7 ""
   "c:/texlive/2022/texmf-var/web2c/pdftex/pdflatex.fmt" 1651725349 2827842 d01b63d9c8bc7f2b951e586420c3832c ""
   "c:/texlive/2022/texmf.cnf" 1651725291 713 e69b156964470283e0530f5060668171 ""
-  "luck.aux" 1666092457 3800 64630c100dccfb99c63661cc48cdf4e4 "pdflatex"
-  "luck.out" 1666092457 4498 e28b0a5703704f42fdef43c062840183 "pdflatex"
-  "luck.tex" 1666092455 23421 3aac70326829d00c9dfde64118294c71 ""
-  "luck.toc" 1666092457 2120 2346dee1b062d9d855be69b43a74221c "pdflatex"
+  "luck.aux" 1666093521 4351 595ef6fe132d6ef105da98791bbba8f3 "pdflatex"
+  "luck.out" 1666093521 5281 494072a4ce852e2f1bb81983dd4a211b "pdflatex"
+  "luck.tex" 1666093519 25663 09b4ab7dcdc4563fed3cf283f1e1d88f ""
+  "luck.toc" 1666093521 2507 082f724cac4c02f22e88c5fc30e209d1 "pdflatex"
   (generated)
   "luck.aux"
   "luck.log"

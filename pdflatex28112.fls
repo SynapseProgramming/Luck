@@ -1,0 +1,5 @@
+PWD C:/Users/Roald Ong/Documents/RO's NUS CS/Y2S1/Luck/LuckDocs
+INPUT c:/texlive/2022/texmf.cnf
+INPUT c:/texlive/2022/texmf-dist/web2c/texmf.cnf
+INPUT c:/texlive/2022/texmf-var/web2c/pdftex/pdflatex.fmt
+INPUT luck.tex
