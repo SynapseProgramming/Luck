@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.5.5)  27 NOV 2022 19:57
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.5.5)  27 NOV 2022 20:19
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -389,28 +389,28 @@ LaTeX Info: Redefining \nameref on input line 41.
 \openout4 = `luck.toc'.
 
  [2] [3] [4] [5] [6] [7] [8] [9] [10] [11] [12]
-[13] [14] [15] [16] (./luck.aux)
+[13] [14] [15] [16] [17] (./luck.aux)
 Package rerunfilecheck Info: File `luck.out' has not changed.
-(rerunfilecheck)             Checksum: DA178513B99DB96F5112DE4003EECE6F;7436.
+(rerunfilecheck)             Checksum: 6A34FC9FD60A7E98793E1C52D55F9833;7922.
  ) 
 Here is how much of TeX's memory you used:
- 11562 strings out of 478305
- 179641 string characters out of 5849247
+ 11565 strings out of 478305
+ 179678 string characters out of 5849247
  679944 words of memory out of 5000000
- 29531 multiletter control sequences out of 15000+600000
+ 29532 multiletter control sequences out of 15000+600000
  477648 words of font info for 47 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 60i,6n,63p,745b,467s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 60i,6n,63p,745b,499s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {c:/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}{c:/tex
 live/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}<c:/texlive/2022/
 texmf-dist/fonts/type1/public/cm-super/sfbx1095.pfb><c:/texlive/2022/texmf-dist
 /fonts/type1/public/cm-super/sfbx1200.pfb><c:/texlive/2022/texmf-dist/fonts/typ
 e1/public/cm-super/sfbx1440.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/
 cm-super/sfrm1095.pfb>
-Output written on luck.pdf (16 pages, 143171 bytes).
+Output written on luck.pdf (17 pages, 145727 bytes).
 PDF statistics:
- 319 PDF objects out of 1000 (max. 8388607)
- 289 compressed objects within 3 object streams
- 63 named destinations out of 1000 (max. 500000)
- 313 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 329 PDF objects out of 1000 (max. 8388607)
+ 298 compressed objects within 3 object streams
+ 65 named destinations out of 1000 (max. 500000)
+ 321 words of extra memory for PDF output out of 10000 (max. 10000000)
 
